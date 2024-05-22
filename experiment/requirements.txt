@@ -1,0 +1,110 @@
+
+torch
+torchaudio
+torchvision
+tqdm
+triton
+cupy
+timm
+spikingjelly==0.0.0.0.15
+mmcv==2.0.1
+mmengine==0.8.4
+mmpretrain==1.0.2
+tensorboard==2.16.2
+
+# ================== ref env ==================
+# absl-py                 2.1.0
+# addict                  2.4.0
+# aliyun-python-sdk-core  2.13.36
+# aliyun-python-sdk-kms   2.16.2
+# certifi                 2022.12.7
+# cffi                    1.15.1
+# charset-normalizer      2.1.1
+# click                   8.1.7
+# cmake                   3.25.0
+# colorama                0.4.6
+# contourpy               1.1.1
+# crcmod                  1.7
+# cryptography            41.0.4
+# cupy-cuda11x            12.2.0
+# cycler                  0.11.0
+# Cython                  3.0.2
+# einops                  0.6.1
+# fastrlock               0.8.2
+# filelock                3.9.0
+# fonttools               4.42.1
+# fsspec                  2024.3.1
+# grpcio                  1.62.1
+# huggingface-hub         0.22.1
+# idna                    3.4
+# importlib-metadata      6.8.0
+# importlib-resources     6.0.1
+# Jinja2                  3.1.2
+# jmespath                0.10.0
+# joblib                  1.4.0
+# kiwisolver              1.4.5
+# lit                     15.0.7
+# loralib                 0.1.2
+# Markdown                3.4.4
+# markdown-it-py          3.0.0
+# MarkupSafe              2.1.2
+# mat4py                  0.5.0
+# matplotlib              3.5.0
+# mdurl                   0.1.2
+# mmcv                    2.0.1
+# mmengine                0.8.4
+# mmpretrain              1.0.2
+# model-index             0.1.11
+# modelindex              0.0.2
+# mpmath                  1.2.1
+# networkx                3.0
+# numpy                   1.26.0
+# opencv-python           4.8.0.76
+# opendatalab             0.0.10
+# openmim                 0.3.9
+# openxlab                0.0.25
+# ordered-set             4.1.0
+# oss2                    2.17.0
+# packaging               23.1
+# pandas                  2.1.0
+# Pillow                  9.3.0
+# pip                     24.0
+# platformdirs            3.10.0
+# protobuf                5.26.0
+# pycparser               2.21
+# pycryptodome            3.19.0
+# Pygments                2.16.1
+# pyparsing               3.1.1
+# python-dateutil         2.8.2
+# pytz                    2023.3.post1
+# PyYAML                  6.0.1
+# requests                2.28.2
+# rich                    13.4.2
+# safetensors             0.4.2
+# scikit-learn            1.4.2
+# scipy                   1.11.3
+# seaborn                 0.13.0
+# setuptools              60.2.0
+# setuptools-scm          8.0.4
+# six                     1.16.0
+# spikingjelly            0.0.0.0.15
+# sympy                   1.11.1
+# tabulate                0.9.0
+# tensorboard             2.16.2
+# tensorboard-data-server 0.7.2
+# termcolor               2.3.0
+# thop                    0.1.1.post2209072238
+# threadpoolctl           3.4.0
+# timm                    0.9.16
+# tomli                   2.0.1
+# torch                   2.0.1+cu118
+# torchaudio              2.0.2+cu118
+# torchvision             0.15.2+cu118
+# tqdm                    4.65.2
+# triton                  2.0.0
+# typing_extensions       4.4.0
+# tzdata                  2023.3
+# urllib3                 1.26.13
+# Werkzeug                3.0.1
+# yapf                    0.40.1
+# zipp                    3.17.0
