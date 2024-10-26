@@ -1,6 +1,6 @@
-# Rethinking the Dynamics of Spiking Neural Networks
+# Rethinking the Membrane Dynamics and Optimization Objectives of Spiking Neural Networks
 
-This repository is the official implementation of [Rethinking the Dynamics of Spiking Neural Networks]. 
+This repository is the official implementation of [Rethinking the Membrane Dynamics and Optimization Objectives of Spiking Neural Networks]. 
 
 
 ## Requirements
